@@ -101,10 +101,12 @@
          font-size: 20px;
       }
       .why{
+         margin-top: 0px;
          width: 50%;
          height: 50vh;
          float: right;
-         margin-top: -317px;
+      
+         
       
          
       }
