@@ -104,6 +104,7 @@
          height: 50vh;
          float: right;
          margin-top: -317px;
+         display: inline-block;
       }
       h5{
          padding-top: 26px;
